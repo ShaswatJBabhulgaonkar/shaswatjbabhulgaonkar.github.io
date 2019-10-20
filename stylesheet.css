@@ -1,4 +1,4 @@
-.navbar {
+ul {
    list-style-type: none;
    margin: 0; 
    padding: 0;
@@ -6,11 +6,11 @@
    background-color: black;
 }
 
-.nav-item {
+li {
    float: left;
 }
 
-.nav-item a {
+li a {
    display: block;
    color: white;
    text-align: center;
@@ -18,7 +18,7 @@
    text-decoration: none;
 }
 
-.nav-item a:hover {
+li a:hover {
   Background-color: black;
 }
 
