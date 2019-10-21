@@ -26,11 +26,11 @@ main {
        max-width: 800px;
        margin-left: auto;
        margin-right: auto;
-       Background-color: grey;
+       Background-color: #ffd780;
 }
 
 body {
     display: block;
     margin: 8px;
-    Background-color: grey;
+    Background-color: #ffd780;
 }
